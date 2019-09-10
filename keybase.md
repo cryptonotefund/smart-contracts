@@ -2,7 +2,7 @@
 
 I hereby claim:
 
-  * I am pavlowd on github.
+  * I am cryptonotefund on github.
   * I am ayrtone (https://keybase.io/ayrtone) on keybase.
   * I have a public key ASB7VsyULgZe2woMnAjZk-d8qAdsiMob0WT2j53Hr0LItgo
 
@@ -19,15 +19,15 @@ json
       "username": "ayrtone"
     },
     "merkle_root": {
-      "ctime": 1568148096,
-      "hash": "93df7f3308ebb10774a596ab137fe355dd1c0208d3b0ed7498098efdf0b2dfc5e478f524c7394bc695e53c8c216f59df840c6e1f7c4b87d19d2c4dd103698445",
-      "hash_meta": "b3a8848e1e333f470716c2070909d05704d97cfe89d140990e36a30d0410d4e6",
-      "seqno": 6517374
+      "ctime": 1568148554,
+      "hash": "54dee2a0bce3f92b9136b3f605be189f762e4bd7068f394d720744a69e2b7d250e258041d10f05c6d6f9c5a5d97af878450da8194e364f44c7c505ba1e2ddc99",
+      "hash_meta": "58071e734482e87114a75e114eded97ba87f1fc47250ec398d16579eeed1da3a",
+      "seqno": 6518611
     },
     "service": {
-      "entropy": "iNp2qOjVhqxoFuHU7DASpzIE",
+      "entropy": "coM+Q6TQgWmU8xM1imkVxzy+",
       "name": "github",
-      "username": "pavlowd"
+      "username": "cryptonotefund"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,16 +36,16 @@ json
     "name": "keybase.io go client",
     "version": "4.4.1"
   },
-  "ctime": 1568148137,
+  "ctime": 1568148574,
   "expire_in": 504576000,
-  "prev": "2c0507a768b27a2abfa57eb8ce1a26600a2da2aa9f6fa1eeb2403f9c3aa5e75c",
-  "seqno": 15,
+  "prev": "cc3cd5d0ff7b7947224a349cedb5f4daba5e1a338d175d7bd21efa8581754de4",
+  "seqno": 17,
   "tag": "signature"
 }
 
 with the key [ASB7VsyULgZe2woMnAjZk-d8qAdsiMob0WT2j53Hr0LItgo](https://keybase.io/ayrtone), yielding the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge1bMlC4GXtsKDJwI2ZPnfKgHbIjKG9Fk9o+dx69CyLYKp3BheWxvYWTESpcCD8QgLAUHp2iyeiq/pX64zhomYAotoqqfb6HuskA/nDql51zEIKGEuUMG+nuvQoFOkho+9yeuzycaVL9/PCfmCZutfElPAgHCo3NpZ8RAImLSXfJ6TDRdvrdliEjwKwKEaYEy49uHt7gKewUchdW4jUtUcR3nPrGv0r5Ftf5NjA4kQpeUxO0BOwOmQFGpBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHr8KyuLnMBd4j27tZjK0Z0QpmRajwn1bwNa/6auKg5ho3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge1bMlC4GXtsKDJwI2ZPnfKgHbIjKG9Fk9o+dx69CyLYKp3BheWxvYWTESpcCEcQgzDzV0P97eUciSjSc7bX02rpeGjONF1170h76hYF1TeTEIAupsgCArF6eGbESGpAtJYGBgriRZiacjXmRcf2lk/rEAgHCo3NpZ8RAhJxf5OBLcLs4jtI7XSrGSQrTKJ/kE68c4EHj+TkaFykpuaTJX2G+LjT/AUbu/VjBbEefmQLZFbnxw4J0osP5BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILcf/4/9gNDKSafhrmAvmuGLGk+odUWpEZ5HRYj3T6w3o3RhZ80CAqd2ZXJzaW9uAQ==
 
 
 And finally, I am proving ownership of the github account by posting this as a gist.
